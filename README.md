@@ -1,1 +1,2 @@
 # Buscaminas
+Tutorial de como realizar "Buscaminas" en C++ donde puedes ver el paso a paso en el siguiente link: https://www.youtube.com/watch?v=_NPT708qXpM&t=675s Realizado por Juan José Läderach con fines educativos el 10 de Octubre del 2022. El código Fuente se encuentra en este repositorio, archivo con extención cpp. Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones en diferentes Sistemas Operativos. -La función de limpiado de pantalla es "clear" en Linux y "cls" en windows -
