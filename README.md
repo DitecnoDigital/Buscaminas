@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
+![This is me](https://github.com/DitecnoDigital/Buscaminas/blob/main/PortadaBuscaminas.jpg)
 
 #  Juego "Buscaminas"
 Tutorial de como realizar "Buscaminas" en C++ donde puedes ver el paso a paso en:
