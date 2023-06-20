@@ -40,7 +40,7 @@ El código Fuente se encuentra en este repositorio, archivo con extención cpp. 
 ## Puedes seguirme en:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ditecnodigital?style=social)](https://twitter.com/DitecnoDigital)
- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@ditecnodigital6965?sub_confirmation=1)
+ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@ditecnodigital?sub_confirmation=1)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
